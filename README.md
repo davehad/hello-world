@@ -1,4 +1,3 @@
 # hello-world
 
-Hello everyone!
-I am Dawit Hadush.
+Hello World! I am Dawit Hadush.
